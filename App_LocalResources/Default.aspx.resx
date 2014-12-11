@@ -138,4 +138,31 @@
   <data name="welcome.Text" xml:space="preserve">
     <value>Welcome to MSCI:3300</value>
   </data>
+  <data name="Date.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Earn.Text" xml:space="preserve">
+    <value>I hope you earn </value>
+  </data>
+  <data name="Hello.Text" xml:space="preserve">
+    <value>Hello ，</value>
+  </data>
+  <data name="Hope.Text" xml:space="preserve">
+    <value>I hope you have a great day when you graduate on </value>
+  </data>
+  <data name="Job.Text" xml:space="preserve">
+    <value>as a salary in your first job! </value>
+  </data>
+  <data name="Money.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Name.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Visit.Text" xml:space="preserve">
+    <value>Please visit me on </value>
+  </data>
+  <data name="Wish.Text" xml:space="preserve">
+    <value>I wish you well in your career after graduation. </value>
+  </data>
 </root>

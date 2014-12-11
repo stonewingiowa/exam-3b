@@ -138,4 +138,31 @@
   <data name="welcome.Text" xml:space="preserve">
     <value>مرحبا بكم</value>
   </data>
+  <data name="Date.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Earn.Text" xml:space="preserve">
+    <value>آمل أن تكسب</value>
+  </data>
+  <data name="Hello.Text" xml:space="preserve">
+    <value>مرحبا،</value>
+  </data>
+  <data name="Hope.Text" xml:space="preserve">
+    <value>آمل أن يكون لديك يوم عظيم عند التخرج على</value>
+  </data>
+  <data name="Job.Text" xml:space="preserve">
+    <value>كما راتبا في أول وظيفة الخاص بك! </value>
+  </data>
+  <data name="Money.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Name.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Visit.Text" xml:space="preserve">
+    <value>يرجى زيارة لي على</value>
+  </data>
+  <data name="Wish.Text" xml:space="preserve">
+    <value>أتمنى لكم التوفيق في حياتك المهنية بعد التخرج.</value>
+  </data>
 </root>
