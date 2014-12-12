@@ -138,31 +138,37 @@
   <data name="welcome.Text" xml:space="preserve">
     <value>Welcome to MSCI:3300</value>
   </data>
-  <data name="Date.Text" xml:space="preserve">
+  <data name="lb_Date.Text" xml:space="preserve">
     <value />
   </data>
-  <data name="Earn.Text" xml:space="preserve">
+  <data name="lb_Earn.Text" xml:space="preserve">
     <value>I hope you earn </value>
   </data>
-  <data name="Hello.Text" xml:space="preserve">
+  <data name="lb_Hello.Text" xml:space="preserve">
     <value>Hello ，</value>
   </data>
-  <data name="Hope.Text" xml:space="preserve">
+  <data name="lb_Hope.Text" xml:space="preserve">
     <value>I hope you have a great day when you graduate on </value>
   </data>
-  <data name="Job.Text" xml:space="preserve">
+  <data name="lb_Job.Text" xml:space="preserve">
     <value>as a salary in your first job! </value>
   </data>
-  <data name="Money.Text" xml:space="preserve">
+  <data name="lb_Money.Text" xml:space="preserve">
     <value />
   </data>
-  <data name="Name.Text" xml:space="preserve">
+  <data name="lb_Name.Text" xml:space="preserve">
     <value />
   </data>
-  <data name="Visit.Text" xml:space="preserve">
+  <data name="lb_Visit.Text" xml:space="preserve">
     <value>Please visit me on </value>
   </data>
-  <data name="Wish.Text" xml:space="preserve">
+  <data name="lb_Wish.Text" xml:space="preserve">
     <value>I wish you well in your career after graduation. </value>
+  </data>
+  <data name="RadioButton1.Text" xml:space="preserve">
+    <value>Male</value>
+  </data>
+  <data name="RadioButton2.Text" xml:space="preserve">
+    <value>Female</value>
   </data>
 </root>
